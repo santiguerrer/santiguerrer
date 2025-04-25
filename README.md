@@ -1,16 +1,37 @@
-## Hi there 👋
+#Projects Portfolio
 
-<!--
-**santiguerrer/santiguerrer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! This repository contains a collection of personal and academic projects that showcase my skills, interests, and growth as a developer. These projects were created to build experience, explore new technologies, and prepare for internships in the tech industry.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Hi, I'm Santiago Guerrero, a Bachelor's graduate in Cybersecurity. I hold the CompTIA Security+ certification and am looking for opportunities to apply my knowledge to real-world environments.
+
+## 🔐 Featured Projects
+
+### 🧠 [Brute Force SSH Lab](https://github.com/yourusername/brute-force-lab)
+Simulated a brute-force attack using Hydra, Crunch, and Nmap in a safe lab environment. Explored password strength weaknesses and analyzed system logs to detect intrusion attempts.
+
+### 🕵️ [OWASP Top 10 – Cryptographic Failures](https://github.com/yourusername/owasp-crypto-failures-lab)
+Investigated a vulnerable web application that exposed sensitive user data through weak encryption and improper API handling. Demonstrated how poor object structure and weak protections expose PII.
+
+### 🧪 [Penetration Test – ACME Bookkeeping](https://github.com/yourusername/acme-penetration-test)
+Led a full-scale simulated penetration test targeting network infrastructure, web applications, and internal systems. Documented findings include SQL injection, outdated systems, weak access control, and open ports.
+
+
+## Skills Used
+
+- Programming/Scripting: Python, Powershell, Bash, SQL
+- Tools & Platforms: Splunk, Metasploit, Wireshark, Hydra, Nmap, Burp Suite
+- Operating Systems: Linux (Command Line), Windows
+- Security Concepts: Endpoint Security, SOC Simulations, Penetration Testing, Log Analysis, SIEM Concepts
+
+## Contact
+
+- GitHub: [santiguerrer](https://github.com/santiguerrer)
+- LinkedIn: [linkedin.com/in/santiguerrer10](https://linkedin.com/in/santiguerrer10)
+- Email: [santiguerrer@gmail.com]
+
+---
+
+Thanks for checking out my projects! I'm actively looking for opportunities and would love to connect.
