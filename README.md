@@ -1,6 +1,6 @@
 #Projects Portfolio
 
-Welcome! This repository contains a collection of personal and academic projects that showcase my skills, interests, and growth as a developer. These projects were created to build experience, explore new technologies, and prepare for internships in the tech industry.
+Welcome! This repository contains a collection of personal and academic projects that showcase my skills, interests, and growth as a cybersecurity graduate. These projects were created to build experience, explore new technologies, and prepare for jobs in the tech industry.
 
 
 ## About Me
