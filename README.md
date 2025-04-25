@@ -9,13 +9,13 @@ Hi, I'm Santiago Guerrero, a Bachelor's graduate in Cybersecurity. I hold the Co
 
 ## 🔐 Featured Projects
 
-### 🧠 [Brute Force SSH Lab](https://github.com/yourusername/brute-force-lab)
+### 🧠 [Brute Force SSH Lab](https://github.com/santiguerrer/brute-force-lab)
 Simulated a brute-force attack using Hydra, Crunch, and Nmap in a safe lab environment. Explored password strength weaknesses and analyzed system logs to detect intrusion attempts.
 
-### 🕵️ [OWASP Top 10 – Cryptographic Failures](https://github.com/yourusername/owasp-crypto-failures-lab)
+### 🕵️ [OWASP Top 10 – Cryptographic Failures](https://github.com/santiguerrer/owasp-crypto-failures-lab)
 Investigated a vulnerable web application that exposed sensitive user data through weak encryption and improper API handling. Demonstrated how poor object structure and weak protections expose PII.
 
-### 🧪 [Penetration Test – ACME Bookkeeping](https://github.com/yourusername/acme-penetration-test)
+### 🧪 [Penetration Test – ACME Bookkeeping](https://github.com/santiguerrer/acme-penetration-test)
 Led a full-scale simulated penetration test targeting network infrastructure, web applications, and internal systems. Documented findings include SQL injection, outdated systems, weak access control, and open ports.
 
 
