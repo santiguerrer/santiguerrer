@@ -18,6 +18,9 @@ Investigated a vulnerable web application that exposed sensitive user data throu
 ### 🧪 [Penetration Test – ACME Bookkeeping](https://github.com/santiguerrer/acme-penetration-test)
 Led a full-scale simulated penetration test targeting network infrastructure, web applications, and internal systems. Documented findings include SQL injection, outdated systems, weak access control, and open ports.
 
+### 🕵️ [CyberDefenders WebStrike Lab](https://github.com/santiguerrer/webstrike-lab)
+Conducted a network forensic investigation to trace an attacker's activities, including identifying the source IP, analyzing the User-Agent, detecting a malicious web shell, and uncovering data exfiltration attempts.
+
 
 ## Skills Used
 
