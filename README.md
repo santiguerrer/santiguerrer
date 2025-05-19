@@ -21,6 +21,8 @@ Led a full-scale simulated penetration test targeting network infrastructure, we
 ### 🕵️ [CyberDefenders WebStrike Lab](https://github.com/santiguerrer/webstrike-lab)
 Conducted a network forensic investigation to trace an attacker's activities, including identifying the source IP, analyzing the User-Agent, detecting a malicious web shell, and uncovering data exfiltration attempts.
 
+### 🔍 [BTLO – Deep Blue Lab](https://github.com/santiguerrer/btlo-deepblue)
+Investigated Windows event logs using DeepBlueCLI to uncover RDP brute-force, malicious service creation, privilege escalation, and user account manipulation.
 
 ## Skills Used
 
